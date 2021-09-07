@@ -4,7 +4,7 @@ public class JavaExample
 {
  public static void main(String[]args)
  {
-   int num1 = 10, num2 = 20, num3 = 7;
+   int num1 = 30, num2 = 40, num3 = 50;
       if( num1>=num2 && num1>=num3)
         System.out.println(num1+"is the largest Number");
       else if (num2 >=num1 && num2>= num3)
